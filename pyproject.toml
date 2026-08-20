@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cleverfeets"
+version = "0.0.1"
+description = "Software for understanding the digital estate."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Cleverfeets" }
+]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Homepage = "https://www.cleverfeets.com/"
+Repository = "https://github.com/cleverfeets/cleverfeets"
