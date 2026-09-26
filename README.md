@@ -1,7 +1,15 @@
 # Cleverfeets
 
-Software for understanding the digital estate.
+**Software for understanding your digital estate.**
 
-Cleverfeets is currently in early development.
+This repository contains the public Python package associated with the
+Cleverfeets project.
 
-https://www.cleverfeets.com/
+It is not the production source repository for the Cleverfeets macOS
+application. Production development is currently private.
+
+Cleverfeets is independent software currently in development, focused on
+helping people understand complex collections of digital information and the
+relationships within them.
+
+[cleverfeets.com](https://www.cleverfeets.com/)
